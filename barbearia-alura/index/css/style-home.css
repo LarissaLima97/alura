@@ -36,7 +36,7 @@ em strong {
 	padding: 20px;
 }
 
-ul {
+ul #itens-beneficios {
 	display: inline-block;
 	vertical-align: top;
 	width: 20%;
